@@ -24,7 +24,7 @@ document.getElementById("toggleAbout").onclick = () => {
 };
 
 // IMAGE SLIDER
-const images = ["image/1.jpg", "image/2.jpg", "image/3.jpg"];
+const images = ["image/1.png", "image/2.jpeg", "image/3.jpeg"];
 let i = 0;
 const slider = document.getElementById("slider");
 
